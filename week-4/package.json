@@ -1,0 +1,16 @@
+{
+  "name": "in-n-out-books",
+  "version": "1.0.0",
+  "description": "JSON Web Service with Node.js and Express",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.4.2"
+  }
+}
