@@ -1,0 +1,17 @@
+{
+  "name": "web-420-week-8",
+  "version": "1.0.0",
+  "description": "Hands-On 7.1 - Enhancing API Security",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Amanda Ruff",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.18.0",
+    "express": "^5.2.1",
+    "jest": "^30.2.0",
+    "supertest": "^7.2.2"
+  }
+}
